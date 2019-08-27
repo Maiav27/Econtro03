@@ -1,0 +1,14 @@
+p {
+    font: 12px verdana, sans-serif;
+    height: 100px;
+    width: 600px;
+    line-height: 2;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 200px;
+    padding-top: 60px;
+    padding-bottom: 40px;
+    text-align: center;
+    border: 1px solid black;
+    color: red;
+}

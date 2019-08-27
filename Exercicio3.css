@@ -1,0 +1,48 @@
+
+caption{
+    color: white;
+    background-color: #0D5188;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+th{
+    background-color: #66C5E3;
+    text-align: left;
+    border-collapse: collapse;
+   width: 700px;
+   height: 0px;
+
+  
+}
+ th#Posição{
+    width: 10%;
+    
+}
+.Cidade{
+    width: 900px;
+}
+.Pop{
+    text-align: center;
+}
+.N{
+text-align-last: center;
+background-color: silver;
+height: 10%;
+}
+td#V{
+    height: 10px;
+}
+table{
+    margin-left: 300px;
+    width:  600px;
+  font-family: Arial, Helvetica, sans-serif;
+   font-size: 12px;
+}
+.Nc{
+color: #0D5188;
+background-color: #C7E7F3 ;
+}
+.fundo{
+    background-color: #C7E7F3;
+}
+   
